@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-2ptlil.juragan89c.site/sitemap.xml
